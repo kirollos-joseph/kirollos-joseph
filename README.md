@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kirollos%20Joseph&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=28&desc=Mechatronics%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Industrial%20Automation%20%7C%20Mechanical%20Design&descAlign=50&descAlignY=45&animation=fadeIn&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Kirollos%20Joseph&fontSize=56&fontColor=FFFFFF&fontAlign=50&fontAlignY=32&desc=Embedded%20Systems%20%E2%80%A2%20Industrial%20Automation%20%E2%80%A2%20Mechanical%20Design&descSize=22&descAlign=50&descAlignY=56&animation=fadeIn&color=gradient" />
+
+<br><br>
 
 <a href="https://github.com/kirollos-joseph"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kirollos-joseph/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/kirollos-joseph/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.credly.com/users/kirollos-joseph"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 
-<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Mechatronics+Engineering+Student;Embedded+Systems+%26+Industrial+Automation;CSWP+Certified+%7C+CATIA+V5;Arduino+%E2%80%A2+ESP32+%E2%80%A2+STM32+%E2%80%A2+AVR;Building+Real-World+Engineering+Solutions" alt="Typing SVG" />
+<br><br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=120&lines=Mechatronics+Engineering+Student;Embedded+Systems+%E2%80%A2+Industrial+Automation;CSWP+Certified+%7C+CATIA+V5;Arduino+%E2%80%A2+ESP32+%E2%80%A2+STM32+%E2%80%A2+AVR;Building+Real-World+Engineering+Solutions" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=kirollos-joseph&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/kirollos-joseph?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub followers" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kirollos-joseph&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/kirollos-joseph?label=Followers&style=for-the-badge&color=58A6FF" />
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" />
 
-<br/><br/>
+<br><br>
 
-> Turning engineering concepts into real-world solutions — one build at a time.
+> **Turning engineering concepts into real-world solutions — one build at a time.**
 
 </div>
-
-<br/>
-
 ## 👋 About Me
 
 I'm a Mechatronics Engineering student at **Mansoura National University** with a strong interest in **Embedded Systems, Industrial Automation, Control Systems, Mechanical Design, PCB Design, and Power Electronics**. I enjoy transforming engineering concepts into real-world solutions through embedded software, electronics, CAD design, PCB development, and industrial automation. I'm continuously improving my technical skills through hands-on projects, professional certifications, engineering communities, and continuous learning.
@@ -179,38 +179,7 @@ I'm a Mechatronics Engineering student at **Mansoura National University** with 
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kirollos-joseph&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirollos-joseph&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirollos-joseph&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirollos-joseph&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</div>
-
-<br/>
-
-## 🧩 LeetCode
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/kirollos-joseph?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kirollos-joseph&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
@@ -251,5 +220,7 @@ I'm a Mechatronics Engineering student at **Mansoura National University** with 
 <br/>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
+
 </div>
