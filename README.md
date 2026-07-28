@@ -31,6 +31,7 @@ I'm a Mechatronics Engineering student at **Mansoura National University** with 
 
 - 🎓 **Bachelor of Engineering in Mechatronics Engineering** — Mansoura National University, Expected Graduation: 2028
 - 💻 Developing embedded applications using **Arduino, ESP32, STM32, and AVR** microcontrollers with UART, SPI, I²C, Timers, PWM, and Interrupts
+- ⚙️ Developing industrial automation solutions using **PLC programming, ladder logic, relay-based control, industrial instrumentation, motor drives, and electrical control design**
 - 🏗️ Certified **SOLIDWORKS Professional (CSWP)** with additional associate certifications across the SOLIDWORKS suite
 - 📐 Experienced with **SOLIDWORKS and CATIA V5** for mechanical design, assemblies, motion studies, and kinematic simulation
 - 🧑‍🏫 Delivered hands-on SOLIDWORKS training and mentored **50+ engineering students** through workshops and training camps
